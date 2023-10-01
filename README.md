@@ -13,4 +13,4 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-<img src='/react_lab3_result.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width="300" height="450"/>
+<img src='/web102_lab3_result.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width="300" height="450"/>
