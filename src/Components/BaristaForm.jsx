@@ -93,7 +93,7 @@ const BaristaForm = () => {
   
   return (
     <div>
-        <h2>Hi, I'd like to order a:</h2>
+        <h2 id="likeToOrder">Hi, I'd like to order a:</h2>
         <div className="drink-container">
             <h2 className="mini-header">{currentDrink}</h2>
             <button

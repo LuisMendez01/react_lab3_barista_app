@@ -8,8 +8,11 @@ function App() {
   return (
     <div>
     <div className='title-container'>
-      <h1 className='title'>On My Grind</h1>
-      <p>"So you think you can barista? Let's put that to the test..."</p>
+      <div className='titleContainer'>
+        <img src="./src/assets/coffee.png"  id="coffeeImg"/>
+        <h1 className='title'>On My Grind</h1>
+      </div>
+        <p id="subtitle">So you think you can barista? Let's put that to the test...</p>
     </div>
     <BaristaForm />
    </div>
